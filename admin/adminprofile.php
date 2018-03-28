@@ -31,7 +31,7 @@ and open the template in the editor.
     
     <body>
     <center><h2><a href="dashboard.php">back</a></h2>
-        <h2>Edit Admin profile</h2>        
+        <h2>Update main Admin profile</h2>        
         <form id="form-search" method="post" >    
             <input type="hidden" name="adminid" value="<?php echo $eres['admin_id']; ?>">
             <table>
